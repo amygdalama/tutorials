@@ -1,0 +1,8 @@
+*.sublime-*
+*.pyc
+.idea
+.coverage
+htmlcov
+settings.ini
+twistd.pid
+website/_site/

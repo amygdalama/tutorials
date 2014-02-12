@@ -1,0 +1,3 @@
+# numpy needs to be before matplotlib
+numpy
+matplotlib
